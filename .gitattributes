@@ -1,0 +1,14 @@
+# Fine riga normalizzati a LF nel repository
+* text=auto eol=lf
+
+# Script Windows: CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binari
+*.jar binary
+*.png binary
+*.webp binary
+*.jpg binary
+*.keystore binary
+*.jks binary
